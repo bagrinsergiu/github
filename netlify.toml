@@ -1,0 +1,17 @@
+[[redirects]]
+from = "/index.html"
+to = "/"
+status = 301
+force = false
+
+[[redirects]]
+from = "/about-us.html"
+to = "/about-us/"
+status = 301
+force = false
+
+[[redirects]]
+from = "/contact-us.html"
+to = "/contact-us/"
+status = 301
+force = false
